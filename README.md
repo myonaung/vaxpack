@@ -3,6 +3,8 @@
 
 ![GitHub](https://img.shields.io/github/license/myonaung/vaxpack)
 
+[![Build Status](https://travis-ci.com/myonaung/vaxpack.svg?branch=master)](https://travis-ci.com/myonaung/vaxpack)
+
 Elijah Martin, Myo Naung
 
 January, 2019
