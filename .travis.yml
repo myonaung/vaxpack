@@ -1,8 +1,2 @@
 language: R
-jobs:
-  include:
-    - stage: "Tests"                # naming the Tests stage
-      name: "Input Output Tests"            # names the first Tests stage job
-      script: ./R/vaxpack_input.R
-    - script: ../R/vaxpack_output.R
-    allow_failures:
+warnings_are_errors: false
