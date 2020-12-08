@@ -1,5 +1,8 @@
 # Vaxpack: Fast and Efficient Population Genetic Analysis Gadget
 
+
+![GitHub](https://img.shields.io/github/license/myonaung/vaxpack)
+
 Elijah Martin, Myo Naung
 
 January, 2019
