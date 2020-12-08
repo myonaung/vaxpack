@@ -1,6 +1,5 @@
 # Vaxpack: Fast and Efficient Population Genetic Analysis Gadget
 
-[![Build Status](https://travis-ci.com/myonaung/vaxpack.svg?branch=master)](https://travis-ci.com/myonaung/vaxpack)
 
 ![GitHub](https://img.shields.io/github/license/myonaung/vaxpack)
 
